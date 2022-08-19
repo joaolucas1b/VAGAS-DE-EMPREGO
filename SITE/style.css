@@ -1,0 +1,47 @@
+#banner {
+	width:50%;
+}
+
+
+.titulo-principal {
+	font-size: 100px;
+	background: #FF0000;
+}
+
+.titulo-principal1 {
+	font-size: 100px;
+	background: #0000FF;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+.objetivo {
+	text-align: center;
+	background: #C0C0C0;
+	font-size: 50px;
+}
+
+.empresas {
+	background: #FFFF00;
+	font-size: 50px;
+}
+
+.levo {
+	background: #3F1B65;
+	color: #FFFFFE;
+	font-size: 100px;
+}
+
+.cvale {
+	background: #0000FF;
+	color: #FFFFFE;
+	font-size: 100px;
+}
+
+.final {
+	background: #00FF00;
+	font-size: 65px;
+	text-align: center;
+}
